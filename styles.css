@@ -27,13 +27,14 @@ color: #F9FAF8;
 font-size: 20px;    
 }
 
-.headerlogo {
+.headerlogoone,.headerlogotwo {
 font-size: 24px;
 display: flex;    
 }
 
 .headerlogobox {
-display: flex;    
+display: flex;
+gap: 5px;    
 }
 
 .toptext {
