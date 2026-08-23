@@ -1,0 +1,49 @@
+body {
+display: flex;
+font-family: Roboto;
+margin: 0;    
+}
+
+header {
+background-color: #1F2937;
+color: #F9FAF8;
+display: flex;
+min-height: 500px;    
+}
+
+img {
+width: 250px;
+height: 250px;    
+}
+
+li {
+list-style: none;
+color: #E5E7EB;    
+}
+
+.signupbutton {
+background-color: #3882F6;
+color: #F9FAF8;
+font-size: 20px;    
+}
+
+.headerlogo {
+font-size: 24px;
+display: flex;    
+}
+
+.headerlogobox {
+display: flex;    
+}
+
+.toptext {
+font-size: 48px;
+font-weight: 900;
+display: flex;
+align-items: center;    
+}
+
+.toppara {
+color: #E5E7EB;
+font-size: 18px;
+}
