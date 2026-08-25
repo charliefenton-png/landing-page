@@ -19,7 +19,8 @@ height: 250px;
 
 li {
 list-style: none;
-color: #E5E7EB;    
+color: #E5E7EB;
+display: inline;    
 }
 
 .signupbutton {
@@ -73,9 +74,19 @@ gap: 20px;
 
 
 .toplinks {
-display: flex;
-max-height: fit-content;
-align-items: flex-end;
-margin-left: 150px;    
+display: flex;    
 }
 
+
+.toplogolinks {
+display: flex;
+gap: 400px;
+}
+
+
+.headerlogocontainer {
+display: flex;
+gap: 5px;
+margin-left: 180px;
+margin-top: 10px;    
+}
