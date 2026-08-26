@@ -126,10 +126,36 @@ justify-content: center;
 .middletoppara {
 display: flex;
 justify-content: center;
-gap: 20px;    
+gap: 50px;    
 }
 
 
 .topmidparaone,.topmidparatwo,.topmidparathree,.topmidparafour {
 width: 200px;    
+}
+
+
+.middlebottomsection {
+display: flex;
+flex-direction: column;
+background-color: #E5E7EB;
+min-height: 300px;
+align-items: flex-end;    
+}
+
+
+.quote {
+font-size: 36px;
+color: #1F2937;
+font-weight: 300;
+font-style: italic;
+text-align: center;
+margin-left: 200px;
+margin-right: 200px;    
+}
+
+.underquotename {
+font-weight: bold;
+font-size: 25px;
+margin-right: 200px;    
 }
